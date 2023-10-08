@@ -1,0 +1,4 @@
+C:\Users\victo\Documents\Semestre 23-2\Semestre 24-1\Compiladores\practica1\obj\Debug\net7.0\practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\Semestre 23-2\Semestre 24-1\Compiladores\practica1\obj\Debug\net7.0\practica1.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Semestre 23-2\Semestre 24-1\Compiladores\practica1\obj\Debug\net7.0\practica1.AssemblyInfo.cs
+C:\Users\victo\Documents\Semestre 23-2\Semestre 24-1\Compiladores\practica1\obj\Debug\net7.0\practica1.csproj.CoreCompileInputs.cache
